@@ -1,3 +1,5 @@
+As described in the following page : http://wiki.ros.org/ROS/Installation/TwoLineInstall
+
 oroca-ros-pkg is collection of OROCA ROS(Robot Operating System) packages.
 
 Usage of single-line install script ros_install.sh
